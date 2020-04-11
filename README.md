@@ -1,5 +1,5 @@
 # Hill Climbing Algorithm AI
-Using a weighted graph as a case to find the minimum cost
+Using Hill-Climbing to find the shortest path in this TSP problem
 
 ![Weighted Graph](SoalHC.PNG)
 
